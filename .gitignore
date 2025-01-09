@@ -1,0 +1,180 @@
+<<<<<<< HEAD
+# Python
+/Assignment_9/venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyTorch
+*.pth
+*.pt
+*.pkl
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Data
+data/
+mnist/
+*.gz
+
+# Logs
+#logs/
+#*.log
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db 
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+/Assignment_6/images/
+# *.ipynb
+/Assignment_6/MPS_run_ERA_v3_assignment_session_6_v2.ipynb
+/Assignment_6/MPS_run_ERA_v3_assignment_session_6.ipynb
+
+/Assignment_7/MPS_run_ERA_v3_assignment_session_7_main2.ipynb
+/Assignment_7/MPS_run_ERA_v3_assignment_session_7_model3.ipynb
+/Assignment_7/MPS_run_ERA_v3_assignment_session_7_model_3.ipynb
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+#*.log
+
+# PyTorch specific
+*.pth
+*.pt
+*.ckpt
+
+# Data files
+data/
+datasets/
+*.csv
+*.h5
+*.pkl
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distribution / packaging
+.Python
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Misc
+*.bak
+*.tmp
+.env
+.env.local
+.env.*.local 
+=======
+data/
+checkpoints/
+#runs/
+imagenetmini-1000/
+__pycache__/
+#lr_finder_plots/
+*.pth
+*.pth.tar
+*.pth.tar.gz
+*.pth.tar.xz
+*.pth.tar.bz2
+*.pth.tar.lzma
+*.pth.tar.lz4
+*.pth.tar.zstd
+*.zip
+#*.json
+*.csv
+#*.log
+*.yaml
+*.yml
+#*.json
+#!/Assignment_9/logs/resnet_50_onecycle/training_log.json 
+*.csv
+#*.log
+*.yaml
+*.yml
+training_script.py
+setup.ipynb
